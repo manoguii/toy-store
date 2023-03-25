@@ -1,0 +1,6 @@
+{
+  "extends": "@toy-store/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}

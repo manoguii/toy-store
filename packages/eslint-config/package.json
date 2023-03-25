@@ -1,7 +1,7 @@
 {
   "name": "@toy-store/eslint-config",
   "version": "1.0.0",
-  "private": "true",
+  "private": true,
   "license": "MIT",
   "main": "index.js",
   "devDependencies": {

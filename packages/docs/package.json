@@ -25,10 +25,12 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@toy-store/eslint-config": "*",
+    "@toy-store/ts-config": "*",
     "@toy-store/react": "*",
     "@toy-store/tokens": "*",
-    "@toy-store/eslint-config": "*"
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
