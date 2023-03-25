@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@manogui-ui/tokens'
+} from '@toy-store/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
@@ -23,7 +23,7 @@ export const {
     ...defaultThemeMap,
     width: 'space',
     height: 'space',
-  },
+  } as const,
   theme: {
     colors,
     fontSizes,
@@ -32,5 +32,5 @@ export const {
     lineHeights,
     radii,
     space,
-  },
+  } as const,
 })

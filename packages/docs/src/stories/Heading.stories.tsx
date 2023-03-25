@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@manogui-ui/react'
+import { Heading, HeadingProps } from '@toy-store/react'
 
 export default {
   title: 'Typography/Heading',

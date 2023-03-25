@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@manogui-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@toy-store/react'
 
 export default {
   title: 'Form/Checkbox',

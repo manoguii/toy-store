@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@manogui-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@toy-store/react'
 
 export default {
   title: 'Form/Text Input',

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@manogui-ui/react'
+import { Avatar, AvatarProps } from '@toy-store/react'
 
 export default {
   title: 'Data Display/Avatar',

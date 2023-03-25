@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@manogui-ui/react'
+import { Box, BoxProps, Text } from '@toy-store/react'
 
 export default {
   title: 'Surfaces/Box',

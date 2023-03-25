@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@manogui-ui/react'
+import { Text, TextProps } from '@toy-store/react'
 
 export default {
   title: 'Typography/Text',

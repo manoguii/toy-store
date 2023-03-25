@@ -1,4 +1,4 @@
-import { colors } from '@manogui-ui/tokens'
+import { colors } from '@toy-store/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {
