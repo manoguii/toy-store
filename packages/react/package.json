@@ -14,7 +14,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@phosphor-icons/react": "^2.0.6",
     "@toy-store/eslint-config": "*",
     "@toy-store/tokens": "*",
     "@toy-store/ts-config": "*",
@@ -25,6 +24,7 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.6",
     "@radix-ui/react-avatar": "^1.0.2",
     "@radix-ui/react-checkbox": "^1.0.3",
     "@stitches/react": "^1.2.8"

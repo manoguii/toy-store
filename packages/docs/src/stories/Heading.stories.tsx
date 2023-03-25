@@ -8,6 +8,7 @@ export default {
   args: {
     size: 'md',
     children: 'Custom Title',
+    as: 'h1',
   },
   argTypes: {
     size: {
