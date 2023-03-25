@@ -7,5 +7,7 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@manogui-ui/docs"]
+  "ignore": [
+    "@toy-store/docs"
+  ]
 }
